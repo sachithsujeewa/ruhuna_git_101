@@ -1,2 +1,4 @@
 this is the first line of sample file
 i can develop new feature here
+
+im going to add new thing here
